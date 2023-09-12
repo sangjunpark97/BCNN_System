@@ -22,3 +22,4 @@ Binarized Convolution Neural Network 알고리즘 연구 및 개선
 - 발명의 명칭 : 이진화 컨볼루션 신경망의 공간적 인접성을 이용한 연산 속도 향상 장치 및 방법
 - 출원 번호 : 10-2021-0136456
 - 출원 일자 : 2021년10월14일
+[1020210136456A.pdf](https://github.com/sangjunpark97/BCNN_System/files/12587276/1020210136456A.pdf)

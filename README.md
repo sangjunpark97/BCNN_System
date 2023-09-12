@@ -5,9 +5,6 @@ BCNN_System
 
 Binarized Convolution Neural Network 알고리즘 연구 및 개선 
 
-2021.10.14 특허 출원 
-
-출원 번호 :  10-2021-0136456
 
 🗓️ **작업기간** : 2021.07. ~ 2021.09
 
